@@ -46,3 +46,4 @@ The objective of this project is to develop interactive Power BI dashboards for 
 - 8.Conclusion:
 - Evaluate manufacturing efficiency and provide actionable recommendations for improving productivity, quality, and operational performance.
 ## Dashboard
+<img width="580" height="325" alt="image" src="https://github.com/user-attachments/assets/7650ec36-6ac6-4a11-bac6-78d2ac85e4fc" />
