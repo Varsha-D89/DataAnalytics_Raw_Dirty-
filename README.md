@@ -16,8 +16,7 @@ The objective of this project is to develop interactive Power BI dashboards for 
 - 10.Which machines are most energy efficient?
 - 11.Is there a relationship between energy consumption and production output?
 - 12.Which machines show signs of potential maintenance issues?
-## Dashboard Interface
-- <a href="https://github.com/Varsha-D89/DataAnalytics_Raw_Dirty-/blob/main/week%201.pbix">View Dashboard</a>
+- Dashboard Interface  <a href="https://github.com/Varsha-D89/DataAnalytics_Raw_Dirty-/blob/main/week%201.pbix">View Dashboard</a>
 ## Process
 - 1.Data Collection:
 - Gather manufacturing production data from machines and shifts.
