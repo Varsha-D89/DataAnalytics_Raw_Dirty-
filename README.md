@@ -4,7 +4,7 @@ The objective of this project is to develop interactive Power BI dashboards for 
 ## Dataset Used
 - <a href="https://github.com/Varsha-D89/DataAnalytics_Raw_Dirty-/blob/main/iRobo_DataAnalytics_Raw_Dirty.xlsx">Dataset</a>
 ## Questions(XPIs)
-- What is the production trend over time?
+- 1.What is the production trend over time?
 - 2.Which machine is the most productive?
 - 3.Which machine has the highest downtime?
 - 4.Is higher downtime affecting production?
@@ -19,31 +19,31 @@ The objective of this project is to develop interactive Power BI dashboards for 
 ## Dashboard Interface
 - <a href="https://github.com/Varsha-D89/DataAnalytics_Raw_Dirty-/blob/main/week%201.pbix">View Dashboard</a>
 ## Process
-- Data Collection
-Gather manufacturing production data from machines and shifts.
-Include production units, downtime, defects, energy consumption, temperature, and operating hours.
+- 1.Data Collection
+- Gather manufacturing production data from machines and shifts.
+- Include production units, downtime, defects, energy consumption, temperature, and operating hours.
 - 2.Data Cleaning & Preparation
-Remove missing values and duplicates.
-Format data types and validate records.
+- Remove missing values and duplicates.
+- Format data types and validate records.
 - 3.Data Import
-Import the dataset into Power BI.
+- Import the dataset into Power BI.
 - 4.Data Modeling
-Establish relationships between tables (if applicable).
-Create calculated measures using DAX.
+- Establish relationships between tables (if applicable).
+- Create calculated measures using DAX.
 - 5.Dashboard Development
-Production Trend Dashboard
-Machine Performance Dashboard
-OEE Dashboard
-Shift Analysis Dashboard
-Defect Rate Dashboard
-Energy Efficiency Dashboard
-Predictive Maintenance Dashboard
+- Production Trend Dashboard
+- Machine Performance Dashboard
+- OEE Dashboard
+- Shift Analysis Dashboard
+- Defect Rate Dashboard
+- Energy Efficiency Dashboard
+- Predictive Maintenance Dashboard
 - 6.Data Analysis
-Analyze production performance, downtime, quality, and energy usage.
-Identify trends, inefficiencies, and maintenance requirements.
+- Analyze production performance, downtime, quality, and energy usage.
+- Identify trends, inefficiencies, and maintenance requirements.
 - 7.Visualization & Reporting
-Create interactive charts, KPI cards, and reports.
-Present insights for data-driven decision-making.
+- Create interactive charts, KPI cards, and reports.
+- Present insights for data-driven decision-making.
 - 8.Conclusion
-Evaluate manufacturing efficiency and provide actionable recommendations for improving productivity, quality, and operational performance.
+- Evaluate manufacturing efficiency and provide actionable recommendations for improving productivity, quality, and operational performance.
 ## Dashboard
