@@ -19,18 +19,18 @@ The objective of this project is to develop interactive Power BI dashboards for 
 ## Dashboard Interface
 - <a href="https://github.com/Varsha-D89/DataAnalytics_Raw_Dirty-/blob/main/week%201.pbix">View Dashboard</a>
 ## Process
-- 1.Data Collection
+- 1.Data Collection:
 - Gather manufacturing production data from machines and shifts.
 - Include production units, downtime, defects, energy consumption, temperature, and operating hours.
-- 2.Data Cleaning & Preparation
+- 2.Data Cleaning & Preparation:
 - Remove missing values and duplicates.
 - Format data types and validate records.
-- 3.Data Import
+- 3.Data Import:
 - Import the dataset into Power BI.
-- 4.Data Modeling
+- 4.Data Modeling:
 - Establish relationships between tables (if applicable).
 - Create calculated measures using DAX.
-- 5.Dashboard Development
+- 5.Dashboard Development:
 - Production Trend Dashboard
 - Machine Performance Dashboard
 - OEE Dashboard
@@ -38,12 +38,12 @@ The objective of this project is to develop interactive Power BI dashboards for 
 - Defect Rate Dashboard
 - Energy Efficiency Dashboard
 - Predictive Maintenance Dashboard
-- 6.Data Analysis
+- 6.Data Analysis:
 - Analyze production performance, downtime, quality, and energy usage.
 - Identify trends, inefficiencies, and maintenance requirements.
-- 7.Visualization & Reporting
+- 7.Visualization & Reporting:
 - Create interactive charts, KPI cards, and reports.
 - Present insights for data-driven decision-making.
-- 8.Conclusion
+- 8.Conclusion:
 - Evaluate manufacturing efficiency and provide actionable recommendations for improving productivity, quality, and operational performance.
 ## Dashboard
