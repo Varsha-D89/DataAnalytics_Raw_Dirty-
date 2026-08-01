@@ -1,2 +1,3 @@
-# DataAnalytics_Raw_Dirty-
-Manufacturing Analytics Dashboard built using Power BI. Analyzed production trends, machine performance, OEE, shift productivity, defect rates, energy efficiency, and predictive maintenance insights through interactive visualizations to support data-driven manufacturing decisions.
+# Manufacturing Analytics Dashboards using Power BI
+## Objective
+The objective of this project is to develop interactive Power BI dashboards for analyzing manufacturing operations. The project focuses on monitoring production trends, evaluating machine performance, measuring equipment effectiveness (OEE), analyzing shift productivity, tracking defect rates, assessing energy efficiency, and identifying maintenance requirements. These insights help improve operational efficiency, product quality, resource utilization, and decision-making in manufacturing environments.
